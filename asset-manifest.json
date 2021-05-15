@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cloudzy-react-app/static/css/main.bfcd37cc.chunk.css",
+    "main.js": "/cloudzy-react-app/static/js/main.2989cfad.chunk.js",
+    "main.js.map": "/cloudzy-react-app/static/js/main.2989cfad.chunk.js.map",
+    "runtime-main.js": "/cloudzy-react-app/static/js/runtime-main.644b9d1b.js",
+    "runtime-main.js.map": "/cloudzy-react-app/static/js/runtime-main.644b9d1b.js.map",
+    "static/js/2.a435fbe0.chunk.js": "/cloudzy-react-app/static/js/2.a435fbe0.chunk.js",
+    "static/js/2.a435fbe0.chunk.js.map": "/cloudzy-react-app/static/js/2.a435fbe0.chunk.js.map",
+    "index.html": "/cloudzy-react-app/index.html",
+    "static/css/main.bfcd37cc.chunk.css.map": "/cloudzy-react-app/static/css/main.bfcd37cc.chunk.css.map",
+    "static/js/2.a435fbe0.chunk.js.LICENSE.txt": "/cloudzy-react-app/static/js/2.a435fbe0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cloudzy-react-app/static/media/background1.237741cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.644b9d1b.js",
+    "static/js/2.a435fbe0.chunk.js",
+    "static/css/main.bfcd37cc.chunk.css",
+    "static/js/main.2989cfad.chunk.js"
+  ]
+}
